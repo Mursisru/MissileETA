@@ -1,0 +1,8 @@
+Missile ETA Engine - Install
+
+1) Close Nuclear Option if it is running.
+2) Copy MissileETA_Engine.dll to:
+   Nuclear Option\BepInEx\plugins\
+3) Start the game.
+
+Plugin: Missile ETA Pro Ultra (BepInEx GUID: com.modder.missile_eta_pro)
