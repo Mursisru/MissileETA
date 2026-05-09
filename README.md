@@ -48,7 +48,3 @@ Update paths in the `.csproj` if needed.
 ## License
 
 See [LICENSE](LICENSE).
-
-## Publishing to GitHub
-
-See [GITHUB_PUBLISH.md](GITHUB_PUBLISH.md) and `scripts/package-release.ps1` for building the release zip and pushing a tagged GitHub Release.
