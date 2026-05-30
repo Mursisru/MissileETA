@@ -1,0 +1,24 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider/JetBrains
+.idea/
+*.sln.iml
+
+# OS/editor junk
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+
+# Release artifacts (build zip locally for GitHub Releases)
+release/*.dll
+release/*.zip

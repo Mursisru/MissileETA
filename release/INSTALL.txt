@@ -1,0 +1,7 @@
+Missile ETA HUD (com.at747.missileeta)
+
+1. Install BepInEx 5 for Nuclear Option (if not already).
+2. Remove old com.modder.missile_eta_pro DLL if present.
+3. Copy MissileETA_Engine.dll into:
+   Nuclear Option\BepInEx\plugins\
+4. Launch the game once; edit BepInEx\config\com.at747.missileeta.cfg as needed.
