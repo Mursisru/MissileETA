@@ -22,3 +22,12 @@ Desktop.ini
 # Release artifacts (build zip locally for GitHub Releases)
 release/*.dll
 release/*.zip
+libs/
+Directory.Build.props
+Directory.Build.user.props
+.cursorrules
+.cursor/
+ffmpeg.exe
+local_build_scripts/
+_buildroot/
+.debug/

@@ -8,7 +8,7 @@ namespace MissileETA_Engine
     {
         public const string ReleaseBase = "2.0.0";
         public const string BepInSemVer = ReleaseBase;
-        public const string VersionChannel = "PR-R";
+        public const string VersionChannel = "DEV";
         public const int CycleBuildNumber = 2;
 
         /// <summary>QOL — HUD ETA labels, off-screen arrows, stable timing.</summary>
@@ -16,7 +16,6 @@ namespace MissileETA_Engine
 
         public const int SubNumber = 7;
 
-        public const string DisplayVersion = "2.0.0 Build PR-R2Q7";
+        public const string DisplayVersion = "2.0.0 Build DEV2Q7";
     }
 }
-
