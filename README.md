@@ -17,6 +17,14 @@ BepInEx 5 plugin for **[Nuclear Option](https://store.steampowered.com/app/21686
 
 ---
 
+## Critical warnings
+
+> [!WARNING]
+> **Remove legacy ETA Pro** - delete any old `com.modder.missile_eta_pro` (`Missile ETA Pro Ultra` v1.9) DLL before installing this build.
+
+> [!IMPORTANT]
+> **BepInEx 5 (x64) required** - install [BepInEx](https://docs.bepinex.dev/articles/user_guide/installation/index.html) before this mod.
+
 ## Features
 
 - **Own missiles** — ETA label at missile world position; **ARH** datalink (`R45`), search (`R SRH` red blink), lock (`R ACT` green blink), lost target (`R LOST` blue).
