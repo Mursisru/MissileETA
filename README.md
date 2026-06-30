@@ -22,9 +22,6 @@ BepInEx 5 plugin for **[Nuclear Option](https://store.steampowered.com/app/21686
 **Plugin GUID:** `com.at747.missileeta`  
 **Version:** `2.0.0` · dev `2.0.0 Build DEV2Q7`
 
-> [!WARNING]
-> **Remove legacy ETA Pro** — delete any old **`com.modder.missile_eta_pro`** (`Missile ETA Pro Ultra` v1.9) DLL before installing this build.
-
 ## Features
 
 - **Own missiles** — ETA label at missile world position; **ARH** datalink (`R45`), search (`R SRH` red blink), lock (`R ACT` green blink), lost target (`R LOST` blue).
