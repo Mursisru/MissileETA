@@ -7,14 +7,6 @@
 [![Version](https://img.shields.io/badge/Version-2.0.0-green)](https://github.com/Mursisru/MissileETA/releases/tag/v2.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/Mursisru/MissileETA/blob/main/LICENSE)
 
-BepInEx 5 plugin for **[Nuclear Option](https://store.steampowered.com/app/2168680/Nuclear_Option/)**: small **time-to-impact** numbers on the Flight HUD at each **own** and **incoming** missile.
-
-**Plugin GUID:** `com.at747.missileeta`  
-**Version:** `2.0.0` · dev `2.0.0 Build DEV2Q7`
-
-> [!WARNING]
-> **Remove legacy ETA Pro** — delete any old **`com.modder.missile_eta_pro`** (`Missile ETA Pro Ultra` v1.9) DLL before installing this build.
-
 ---
 
 ## Critical warnings
@@ -24,6 +16,14 @@ BepInEx 5 plugin for **[Nuclear Option](https://store.steampowered.com/app/21686
 
 > [!IMPORTANT]
 > **BepInEx 5 (x64) required** - install [BepInEx](https://docs.bepinex.dev/articles/user_guide/installation/index.html) before this mod.
+
+BepInEx 5 plugin for **[Nuclear Option](https://store.steampowered.com/app/2168680/Nuclear_Option/)**: small **time-to-impact** numbers on the Flight HUD at each **own** and **incoming** missile.
+
+**Plugin GUID:** `com.at747.missileeta`  
+**Version:** `2.0.0` · dev `2.0.0 Build DEV2Q7`
+
+> [!WARNING]
+> **Remove legacy ETA Pro** — delete any old **`com.modder.missile_eta_pro`** (`Missile ETA Pro Ultra` v1.9) DLL before installing this build.
 
 ## Features
 
